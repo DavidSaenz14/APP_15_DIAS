@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">APP_15_DIAS</string>
+    <string name="imagen1">DIA 1</string>
+    <string name="description1">The Jetpack Hero</string>
+    <string name="imagen2">DIA 2 </string>
+    <string name="description2">Understands the absolute truth</string>
+    <string name="imagen3">DIA 3</string>
+    <string name="description3">Mimics the light and night to blend in</string>
+    <string name="imagen4">DIA 4</string>
+    <string name="description4">Harnesses the power of canary to develop bravely</string>
+    <string name="imagen5">DIA 5</string>
+    <string name="description5">Effortlessly glides in to save the day</string>
+    <string name="imagen6">DIA 6</string>
+    <string name="description6">Effortlessly glides in to save the day</string>
+    <string name="imagen7">DIA 7</string>
+    <string name="description7">Ability to shift to any form and energize</string>
+    <string name="imagen8">DIA 8</string>
+    <string name="description8">Ability to shift to any form and energize</string>
+    <string name="imagen9">DIA 9</string>
+    <string name="description9">Ability to shift to any form and energize</string>
+    <string name="imagen10">DIA 10</string>
+    <string name="description10">Ability to shift to any form and energize</string>
+    <string name="imagen11">DIA 11</string>
+    <string name="description11">Ability to shift to any form and energize</string>
+    <string name="imagen12">DIA 12</string>
+    <string name="description12">Ability to shift to any form and energize</string>
+    <string name="imagen13">DIA 13</string>
+    <string name="description13">Ability to shift to any form and energize</string>
+    <string name="imagen14">DIA 14</string>
+    <string name="description14">Ability to shift to any form and energize</string>
+    <string name="imagen15">DIA 15</string>
+    <string name="description15">Ability to shift to any form and energize</string>
+</resources>
